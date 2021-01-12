@@ -1,0 +1,13 @@
+<resources>
+    <string name="menu1">Today</string>
+    <string name="menu2">事件储藏柜</string>
+    <string name="menu3">自习室</string>
+    <string name="menu4">时间规划局</string>
+    <string name="app_name">时间碎片</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_today">today</string>
+</resources>

@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#d50000</color>
+  <color name="primaryLightColor">#ff5131</color>
+  <color name="primaryDarkColor">#9b0000</color>
+  <color name="secondaryColor">#ff3d00</color>
+  <color name="secondaryLightColor">#ff7539</color>
+  <color name="secondaryDarkColor">#c30000</color>
+  <color name="primaryTextColor">#ffffff</color>
+  <color name="secondaryTextColor">#000000</color>
+  <color name="moreng">#8BC34A</color>
+  <color name="tangchuang">#CDDC39</color>
+  <color name="shock">#FF5722</color>
+  <color name="alarm">#E91E63</color>
+  <color name="mix">#F0673AB7</color>
+</resources>

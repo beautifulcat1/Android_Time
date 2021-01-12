@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Email"
+            android:icon="@drawable/email"
+            android:title="Email"/>
+        <item
+            android:id="@+id/nicheng"
+            android:icon="@drawable/touxiang"
+            android:title="昵称"
+            />
+
+        <item
+            android:id="@+id/shuoming"
+            android:icon="@drawable/shuoming"
+            android:title="个人说明"
+            />
+        android:title="Call"/>
+        <item
+            android:id="@+id/call"
+            android:icon="@drawable/call"
+            android:title="电话"
+            />
+        android:title="Call"/>
+
+
+
+    </group>
+
+</menu>

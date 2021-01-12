@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/home"
+        android:title="@string/menu1" />
+
+    <item
+        android:id="@+id/navigation_calender"
+        android:icon="@drawable/calendar"
+        android:title="@string/menu2" />
+
+<!--    <item-->
+    <!--        android:id="@+id/navigation_study_house"-->
+    <!--        android:icon="@drawable/comment"-->
+    <!--        android:title="@string/menu3" />-->
+    <item
+        android:id="@+id/navigation_InTime"
+        android:icon="@drawable/chart"
+        android:title="@string/menu4" />
+
+</menu>
